@@ -2,13 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+## LAPORAN PROJECT FLUTTER LAYOUT-NAVIGASI
 
-This project is a starting point for a Flutter application.
+**Nama:** Ismi Atika.
+**NIM:** 2341760036.
+**Kelas:** SIB 3C.
 
-A few resources to get you started if this is your first Flutter project:
+## Hasil Praktikum 1-4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+Berikut adalah hasil akhir dari Praktikum 1-4 yang telah saya kerjakan
+
+- [Hasil](image/Hasil.png)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
