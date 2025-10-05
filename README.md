@@ -14,4 +14,4 @@ A new Flutter project.
 
 Berikut adalah hasil akhir dari Praktikum 1-4 yang telah saya kerjakan
 
-- [Hasil](image/Hasil.png)
+![Hasil](image/Hasil.png)
