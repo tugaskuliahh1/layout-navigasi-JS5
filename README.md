@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## LAPORAN PROJECT FLUTTER LAYOUT-NAVIGASI
 
-**Nama:** Ismi Atika
-**NIM:** 2341760036
-**Kelas:** SIB3C
+**Nama:** Ismi Atika  
+**NIM:** 2341760036  
+**Kelas:** SIB3C  
 
 ---
 
